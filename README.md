@@ -1,2 +1,3 @@
-# TRAFFIC-TELLIGENCE
- A machine learning project to predict traffic volume using historical and weather data
+# TrafficTelligence: Advanced Traffic Volume Estimation With Machine Learning
+
+This project estimates traffic volume using historical data and machine learning techniques.
